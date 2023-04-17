@@ -14,8 +14,8 @@
     
 <div align="center">
   <a href="https://github.com/diegomike">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegomike&count_private=true&include_all_commits=true&show_icons=true&theme=transparent&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomike&theme=transparent&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diegomike&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomike&layout=compact&langs_count=7&theme=transparent"/>
   </a>
 </div>
 
